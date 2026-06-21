@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.editor.highlightModifiedTabs": true,
+
+    "editor.rulers": [
+        {
+            "column": 100,
+            "color": "#3c97c5"
+        }
+    ],
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true
+    },
+
+    "json.schemaDownload.trustedDomains": {
+        "https://raw.githubusercontent.com/catppuccin/vscode/": true
+    },
+}
