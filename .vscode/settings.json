@@ -1,12 +1,12 @@
 {
-    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.colorTheme": "GitHub Dark",
     "workbench.iconTheme": "catppuccin-macchiato",
     "workbench.editor.highlightModifiedTabs": true,
 
     "editor.rulers": [
         {
             "column": 100,
-            "color": "#3c97c5"
+            "color": "#95b8d1"
         }
     ],
     "editor.renderWhitespace": "boundary",
@@ -27,4 +27,8 @@
     "json.schemaDownload.trustedDomains": {
         "https://raw.githubusercontent.com/catppuccin/vscode/": true
     },
+    
+    "claudeCode.preferredLocation": "panel",
+    "git.blame.editorDecoration.enabled": true,
+    "git.blame.editorDecoration.template": "${subject} · ${authorName} · ${authorDateAgo}",
 }
