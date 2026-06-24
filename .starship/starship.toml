@@ -1,0 +1,20 @@
+format = "$username$directory$git_branch$git_status"
+
+[username]
+show_always = true
+format = "[$user]($style) "
+style_user = "bold #BFC6C4"
+
+[directory]
+truncation_length = 0
+truncate_to_repo = false
+format = "[$path]($style) "
+style = "bold #95b8d1"
+
+[git_branch]
+format = "([(\\($branch\\))]($style)) "
+style = "bold #BFC6C4"
+
+[git_status]
+format = "([$all_status$ahead_behind]($style)) "
+style = "bold red"
