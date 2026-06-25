@@ -27,8 +27,4 @@ Python • JavaScript • TypeScript • Docker • OpenAI APIs • Antrophic AP
 
 ## Let's connect
 
-<a href="https://linkedin.com/in/vladneculoiu" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none">
-  <img src="icons/linkedin.svg" height="40" alt="LinkedIn" />
-</a><a href="https://vladneculoiu.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none">
-  <img src="icons/website.svg" height="40" alt="Website" />
-</a>
+<a href="https://linkedin.com/in/vladneculoiu" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none"><img src="icons/linkedin.svg" height="40" alt="LinkedIn" /></a><a href="https://vladneculoiu.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none"><img src="icons/website.svg" height="40" alt="Website" /></a>
