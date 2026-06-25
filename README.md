@@ -1,8 +1,36 @@
 # Hello world
 
-### I'm Vlad!
+## Hi, I'm Vlad 👋
 
-I'm dedicated to creating technology that works the way people do, making everyday tasks easier, solving real challenges, and fitting naturally into how we already live and work. 
+I'm passionate about building technology that fits naturally into people's lives, making everyday tasks simpler, solving real problems, and creating products that people genuinely enjoy using.
 
-I believe great products begin with listening and understanding what people truly need. From there, I focus on turning those insights into clear, practical solutions that feel easy to use and make a meaningful difference.
+I believe the best products start with understanding people, not technology. By listening carefully and focusing on real needs, I turn ideas into practical, intuitive solutions.
 
+## Philosophy
+
+> Technology should support people
+
+## What I'm building
+
+- AI-powered products
+- Product ideas from concept to launch
+
+## Current focus
+
+- Building powerful skills
+- Exploring AI and agentic systems
+- Creating products people actually want to use
+
+## Tech I enjoy
+
+Python • JavaScript • TypeScript • Docker • OpenAI APIs • Antrophic APIs
+
+## Let's connect
+
+<a href="https://linkedin.com/in/vladneculoiu" target="_blank" rel="noopener noreferrer">
+  <img src="icons/linkedin.svg" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://vladneculoiu.com" target="_blank" rel="noopener noreferrer">
+  <img src="icons/website.svg" height="40" alt="Website"/>
+</a>
