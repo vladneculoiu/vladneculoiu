@@ -28,7 +28,6 @@
         "https://raw.githubusercontent.com/catppuccin/vscode/": true
     },
     
-    "claudeCode.preferredLocation": "panel",
     "git.blame.editorDecoration.enabled": true,
     "git.blame.editorDecoration.template": "${subject} · ${authorName} · ${authorDateAgo}",
 }
