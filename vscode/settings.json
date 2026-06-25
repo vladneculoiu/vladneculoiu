@@ -29,5 +29,5 @@
     },
     
     "git.blame.editorDecoration.enabled": true,
-    "git.blame.editorDecoration.template": "${subject} · ${authorName} · ${authorDateAgo}",
+    "git.blame.editorDecoration.template": "${subject} · ${authorName} · ${authorDateAgo}"
 }
