@@ -28,9 +28,9 @@ Python • JavaScript • TypeScript • Docker • OpenAI APIs • Antrophic AP
 ## Let's connect
 
 <a href="https://linkedin.com/in/vladneculoiu" target="_blank" rel="noopener noreferrer">
-  <img src="icons/linkedin.svg" height="40" alt="LinkedIn"/>
+  <img src="icons/linkedin.svg" height="40" alt="LinkedIn" style="vertical-align: middle"/>
 </a>
-&nbsp;
+&nbsp;·&nbsp;
 <a href="https://vladneculoiu.com" target="_blank" rel="noopener noreferrer">
-  <img src="icons/website.svg" height="40" alt="Website"/>
+  <img src="icons/website.svg" height="40" alt="Website" style="vertical-align: middle"/>
 </a>
