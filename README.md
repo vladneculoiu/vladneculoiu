@@ -24,7 +24,3 @@ I believe the best products start with understanding people, not technology. By 
 ## Tech I enjoy
 
 Python • JavaScript • TypeScript • Docker • OpenAI APIs • Antrophic APIs
-
-## Let's connect
-
-<a href="https://linkedin.com/in/vladneculoiu" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none"><img src="icons/linkedin.svg" height="40" alt="LinkedIn" /></a><a href="https://vladneculoiu.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; border-bottom: none"><img src="icons/website.svg" height="40" alt="Website" /></a>
